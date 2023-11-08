@@ -48,42 +48,27 @@ body {
 .pried-chicken1 {
     color: #CE6667;
     font-family: "Recursive Regular";
-    position: relative;
-    top: 100px;
-    right: 540px;
     font-size: 20px;
 }
 
 .haha1 {
     font-family: "Anton";
     color: #CE6667;
-    position: relative;
-    top: 100px;
-    right: 540px;
 }
 
 .haha2 {
     font-family: "Anton";
     color: #CE6667;
-    position: relative;
-    top: 100px;
-    left: 107px;
 }
 
 .haha3 {
     font-family: "Anton";
     color: #CE6667;
-    position: relative;
-    top: 100px;
-    left: 107px;
 }
 
 .pried-chicken2 {
     color: #CE6667;
     font-family: "Recursive Regular";
-    position: relative;
-    top: 140px;
-    left: 107px;
     font-size: 20px;
 }
 
@@ -92,9 +77,6 @@ body {
     background-color: #CE6667;
     border: none;
     padding: 7px 7px;
-    position: relative;
-    bottom: 130px;
-    left: 107px;
     font-size: 20px;
 }
 
@@ -103,9 +85,6 @@ body {
     border-color: #CE6667;
     box-shadow: none;
     padding: 7px 7px;
-    position: relative;
-    bottom: 130px;
-    left: 150px;
     font-size: 20px;
 }
 
@@ -114,8 +93,6 @@ body {
     background-color: #CE6667;
     border: none;
     float: right;
-    position: relative;
-    bottom: 320px;
     font-size: 35px;
 }
 
@@ -134,8 +111,24 @@ body {
     color: white;
 }
 
-.dismissed{
-    position: relative;
-    left: 700px;
-    bottom: 200px;
+
+.ippo {
+    display: grid;
+    grid-template-columns: 200px 800px;
+}
+
+.jay {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bernie {
+    margin-left: -280px;
+    margin-top: 40px-;
+}
+
+.fernando {
+    
 }
